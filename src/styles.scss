@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+.app-icon-outline {
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+body {
+  background-color: #f7f7f9;
+}
